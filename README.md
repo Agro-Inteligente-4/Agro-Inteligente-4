@@ -1,6 +1,6 @@
 ## Projeto de Iniciação Científica: Sistema de Apoio à Decisão Aplicado ao Planejamento Estratégico e Comercialização de Cana-de-Açúcar
 
-### Discriminação do Projeto
+### Descrição do Projeto
 
 **Resumo:**  
 Após a colheita da cana-de-açúcar, os produtores enfrentam decisões cruciais que podem impactar diretamente os lucros. Essas decisões incluem determinar a quantidade ideal a ser comercializada, identificar os momentos mais propícios para a venda e definir as rotas de transporte mais vantajosas. Este projeto visa desenvolver ferramentas de tecnologia da informação para coletar, manipular e organizar dados sobre armazenamento, transporte e comercialização da cana-de-açúcar. Os dados podem ser históricos de mercado, informações sobre preços, demanda e oferta, cotações de bolsas, custos de armazenamento e transporte, obtidos de sites de empresas, organizações, cooperativas, produtores e comerciantes de cana-de-açúcar. Serão utilizadas técnicas de análise de dados para coletar, organizar, manipular e apresentar informações importantes para a tomada de decisão após a colheita. Modelos de inteligência artificial serão empregados para prever métricas e estimar lucros com a comercialização futura.
@@ -35,6 +35,18 @@ Ferramentas como as bibliotecas Plotly e Dash permitem criar gráficos e painéi
 
 Em resumo, o desenvolvimento de um sistema eficiente para auxiliar na tomada de decisão sobre armazenamento, transporte e comercialização da cana-de-açúcar envolve conceitos de gestão estratégica, inteligência de mercado, visualização de dados, business intelligence e automação de processos. Esses conceitos fornecem a base teórica necessária para criar um sistema que coleta, analisa e interpreta informações relevantes para produtores e comerciantes de cana-de-açúcar, contribuindo para a maximização da lucratividade e o sucesso do negócio.
 
-Funcionalidades: 
-Todas as soluções tecnológicas serão integradas em uma plataforma web, oferecendo aos produtores e técnicos especializados acesso a três categorias (ou páginas) principais. A primeira, "Notícias e novidades sobre o agronegócio", fornece informações atualizadas e relevantes sobre o setor, está pagina ja está desenvolvida e podesse ver toda as suas funcionalidades e codigos bem detalhados no link asseguir: https://github.com/Agro-Inteligente-4/Noticias-e-suas-classificacoes. A segunda é "Gestão de gastos", esta disponibiliza ferramentas essenciais para que os produtores possam gerenciar seus custos de produção de forma eficiente,  está pagina ja está desenvolvida e podesse ver toda as suas funcionalidades e codigos bem detalhados no link asseguir: https://github.com/Agro-Inteligente-4/Gerenciamento-de-gastos. E a terceira, "Potencializando seus ganhos", disponibiliza previsões de mercado, auxiliando os produtores a maximizar seus lucros, está pagina ainda está em desenvolvimento, se quiser ver o andamento dela basta acessar este link: https://github.com/Agro-Inteligente-4/Potencializando-seus-ganhos.
+### Funcionalidades
+
+Todas as soluções tecnológicas serão integradas em uma plataforma web, proporcionando aos produtores e técnicos especializados acesso a três categorias principais:
+
+1. **Notícias e Novidades sobre o Agronegócio**  
+   Esta seção fornece informações atualizadas e relevantes sobre o setor. A página já está desenvolvida e todas as suas funcionalidades e códigos detalhados podem ser visualizados no [GitHub](https://github.com/Agro-Inteligente-4/Noticias-e-suas-classificacoes).
+
+2. **Gestão de Gastos**  
+   Esta seção disponibiliza ferramentas essenciais para que os produtores possam gerenciar seus custos de produção de forma eficiente. A página também já está desenvolvida, e todas as suas funcionalidades e códigos detalhados podem ser visualizados no [GitHub](https://github.com/Agro-Inteligente-4/Gerenciamento-de-gastos).
+
+3. **Potencializando seus Ganhos**  
+   Esta seção oferece previsões de mercado, auxiliando os produtores a maximizar seus lucros. A página está atualmente em desenvolvimento. Para acompanhar seu andamento, acesse o [GitHub](https://github.com/Agro-Inteligente-4/Potencializando-seus-ganhos).
+
+Cada uma dessas páginas foi projetada para fornecer suporte específico e relevante, facilitando a gestão e a tomada de decisões estratégicas no agronegócio.
 
