@@ -1,4 +1,4 @@
-## Projeto de Iniciação Científica: Sistema de Apoio à Decisão Aplicado ao Planejamento Estratégico e Comercialização de Cana-de-Açúcar
+## Sistema de Apoio à Decisão Aplicado ao Planejamento Estratégico e Comercialização de Cana-de-Açúcar
 
 ### Descrição do Projeto
 
